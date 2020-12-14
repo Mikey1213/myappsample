@@ -8,6 +8,7 @@ public class testClass {
         strings.add("world");
         strings.stream().forEach(System.out::print);
         System.out.println("new line or whatever");
+        System.out.println("Another new line");
 
     }
 }
